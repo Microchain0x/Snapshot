@@ -1,1 +1,1 @@
-# Micro Chain SNAPSHOT
+# Micro Chain Snapshot
